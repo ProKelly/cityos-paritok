@@ -1,4 +1,4 @@
-# OpportunityOS AI
+# CityOS Paritok
 
 **Your AI-powered opportunity navigator.** FastAPI backend, Supabase (Postgres + pgvector + Auth), Groq for LLM reasoning — matches users to scholarships, jobs, grants, and competitions, explains why, and generates a roadmap plus CV/cover-letter documents to get there.
 
