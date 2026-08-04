@@ -36,15 +36,28 @@ cp .env.example .env   # fill in Supabase, Groq, and Paritok keys
 python -m scripts.seed_opportunities
 ```
 
-### 6. Run it
+### 6. Run the backend
 
 ```bash
 uvicorn app.main:app --reload --port 8000
 ```
 
-That's it — one process. API docs at `http://localhost:8000/docs`.
+API docs at `http://localhost:8000/docs`.
 
 To run without Paritok (e.g. no API key yet), set `PARITOK_ENABLED=false` in `.env` — the app calls Groq directly and skips compression entirely.
+
+### 7. Run the frontend
+
+```bash
+cd frontend
+npm install
+cp .env.example .env   # fill in NUXT_PUBLIC_SUPABASE_URL / ANON_KEY — same project as the backend
+npm run dev
+```
+
+App runs at `http://localhost:3000`. `NUXT_PUBLIC_SUPABASE_URL` and the backend's `SUPABASE_URL` **must point to the same Supabase project** — if they don't, every authenticated request will 401.
+
+> **Note on step 1:** run `schema.sql` before `migrations/003_career_chat.sql` — the migration's `chat_sessions` table references `opportunities`, which `schema.sql` creates. If you ever add a table and immediately get a `PGRST205 "Could not find the table ... in the schema cache"` error even though the table exists, go to Project Settings → API → **Reload schema cache** in the Supabase dashboard (it also auto-refreshes after ~60s).
 
 ---
 
@@ -87,5 +100,6 @@ app/
     embedding_service.py
 scripts/       seed_opportunities.py — loads the curated starter dataset
 supabase/      schema.sql + migrations/ (003_career_chat.sql adds chat tables)
-career-chat.vue  frontend page for /chat — drop into frontend/pages/
+
+frontend/pages/career-chat.vue   frontend page for /chat
 ```
