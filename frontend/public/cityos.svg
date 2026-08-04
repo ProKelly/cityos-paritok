@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="100%" height="100%">
+  <defs>
+    <linearGradient id="signalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4FD1C5" />
+      <stop offset="100%" stop-color="#F2B84B" />
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Hexagon / Frame -->
+  <polygon points="48,4 88,27 88,69 48,92 8,69 8,27" fill="#11172A" stroke="#262E52" stroke-width="2.5" />
+  
+  <!-- Inner Geometric Chart / Navigator Node -->
+  <path d="M24 60 L42 38 L56 50 L74 24" fill="none" stroke="url(#signalGradient)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Data Node Points -->
+  <circle cx="24" cy="60" r="4.5" fill="#4FD1C5" />
+  <circle cx="42" cy="38" r="4.5" fill="#F2B84B" />
+  <circle cx="56" cy="50" r="4.5" fill="#4FD1C5" />
+  <circle cx="74" cy="24" r="5.5" fill="#F2B84B" />
+</svg>

@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+  body {
+    @apply bg-navy-950 text-parchment font-body antialiased;
+  }
+  h1, h2, h3, h4 {
+    @apply font-display;
+  }
+  ::selection {
+    @apply bg-signal/30 text-parchment;
+  }
+  *:focus-visible {
+    outline: 2px solid theme("colors.signal.DEFAULT");
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .btn-beacon {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-signal px-6 py-3 font-body font-semibold text-navy-950 shadow-beacon transition-transform duration-150 hover:scale-[1.03] active:scale-[0.98];
+  }
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border border-navy-600 px-6 py-3 font-body font-medium text-parchment transition-colors hover:border-chart hover:text-chart;
+  }
+  .card {
+    @apply rounded-2xl border border-navy-700 bg-navy-900/60 p-6 shadow-chart backdrop-blur-sm;
+  }
+  .waypoint-label {
+    @apply font-mono text-xs uppercase tracking-[0.2em] text-chart;
+  }
+  .input-field {
+    @apply w-full rounded-lg border border-navy-600 bg-navy-900 px-4 py-3 text-parchment placeholder:text-navy-600 focus:border-chart focus:outline-none;
+  }
+}
+
+/* Signature: a slow radar sweep behind the hero, representing scanning the
+   opportunity landscape. Respects reduced-motion. */
+@keyframes radar-sweep {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.radar-sweep {
+  animation: radar-sweep 14s linear infinite;
+  transform-origin: center;
+}
+@keyframes pulse-ring {
+  0% { transform: scale(0.8); opacity: 0.6; }
+  100% { transform: scale(1.6); opacity: 0; }
+}
+.pulse-ring {
+  animation: pulse-ring 3s ease-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .radar-sweep, .pulse-ring {
+    animation: none !important;
+  }
+}

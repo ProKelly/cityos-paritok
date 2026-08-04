@@ -1,0 +1,427 @@
+[
+  {
+    "title": "Mastercard Foundation Scholars Program",
+    "organization": "Mastercard Foundation",
+    "description": "Full scholarships for academically talented but economically disadvantaged young people in Africa to pursue university education, alongside leadership development and mentorship.",
+    "country": "Africa",
+    "category": "Scholarships",
+    "deadline": "2027-01-15",
+    "eligibility": "African students demonstrating financial need and academic merit",
+    "skills": [
+      "Leadership",
+      "Academic Excellence",
+      "Community Service"
+    ],
+    "url": "https://mastercardfdn.org/all/scholars/"
+  },
+  {
+    "title": "Google Africa Developer Scholarship",
+    "organization": "Google",
+    "description": "Provides free access to Android, Web, or Cloud development courses on Udacity/Coursera for developers across Africa, with mentorship and a certificate.",
+    "country": "Africa",
+    "category": "Scholarships",
+    "deadline": "2026-09-30",
+    "eligibility": "Developers based in Africa, basic programming knowledge",
+    "skills": [
+      "Android",
+      "Web Development",
+      "Cloud Computing"
+    ],
+    "url": "https://developers.google.com/programs/africa/"
+  },
+  {
+    "title": "MEST Africa Software Engineering Training Program",
+    "organization": "MEST Africa",
+    "description": "A one-year, fully-funded program teaching software development, business, and communications, culminating in an internship and pathway into MEST's startup incubator.",
+    "country": "Ghana, Nigeria, South Africa",
+    "category": "Fellowships",
+    "deadline": "2026-10-01",
+    "eligibility": "University graduates under 28 with strong analytical skills",
+    "skills": [
+      "Software Engineering",
+      "Entrepreneurship",
+      "Product Management"
+    ],
+    "url": "https://meltwater.org/entrepreneur-in-training/"
+  },
+  {
+    "title": "Y Combinator Startup Program",
+    "organization": "Y Combinator",
+    "description": "A seed accelerator that invests in early-stage startups, offering funding, mentorship, and access to a large investor network, culminating in a Demo Day.",
+    "country": "Global (remote-friendly)",
+    "category": "Accelerators",
+    "deadline": "2026-10-10",
+    "eligibility": "Founders with a product idea or early traction",
+    "skills": [
+      "Entrepreneurship",
+      "Product Development",
+      "Fundraising"
+    ],
+    "url": "https://www.ycombinator.com/apply"
+  },
+  {
+    "title": "Tony Elumelu Foundation Entrepreneurship Programme",
+    "organization": "Tony Elumelu Foundation",
+    "description": "A pan-African entrepreneurship program offering seed capital, mentorship, and a 12-week business training bootcamp to early-stage African entrepreneurs.",
+    "country": "Africa",
+    "category": "Grants",
+    "deadline": "2027-03-01",
+    "eligibility": "African entrepreneurs with a business idea or existing business",
+    "skills": [
+      "Entrepreneurship",
+      "Business Planning",
+      "Finance"
+    ],
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+  },
+  {
+    "title": "African Leadership Academy Global Scholars Program",
+    "organization": "African Leadership Academy",
+    "description": "A free online leadership and entrepreneurship program for African high school students, culminating in a certificate and access to ALA's alumni network.",
+    "country": "Africa",
+    "category": "Fellowships",
+    "deadline": "2026-11-15",
+    "eligibility": "African students aged 15-19",
+    "skills": [
+      "Leadership",
+      "Public Speaking",
+      "Entrepreneurship"
+    ],
+    "url": "https://www.africanleadershipacademy.org/programs/global-scholars/"
+  },
+  {
+    "title": "Andela Technical Learning Community",
+    "organization": "Andela",
+    "description": "A free, flexible online learning community helping African developers strengthen technical skills through peer learning, mentorship, and project-based challenges.",
+    "country": "Africa",
+    "category": "Fellowships",
+    "deadline": "2026-12-01",
+    "eligibility": "Developers of all experience levels based in Africa",
+    "skills": [
+      "Software Engineering",
+      "Peer Learning",
+      "Career Development"
+    ],
+    "url": "https://andela.com/tech-talent/"
+  },
+  {
+    "title": "Junior Frontend Developer",
+    "organization": "Flutterwave",
+    "description": "Build and maintain customer-facing dashboards using Vue.js and React, collaborating closely with design and backend teams to ship payment products across Africa.",
+    "country": "Nigeria (remote option)",
+    "category": "Jobs",
+    "deadline": "2026-09-20",
+    "eligibility": "1+ years experience with JavaScript frameworks",
+    "skills": [
+      "Vue.js",
+      "React",
+      "JavaScript",
+      "REST APIs"
+    ],
+    "url": "https://flutterwave.com/careers"
+  },
+  {
+    "title": "Backend Engineering Internship",
+    "organization": "Paystack",
+    "description": "A 3-month paid internship building and testing backend services that power payments for thousands of African businesses, using Python and PostgreSQL.",
+    "country": "Nigeria (remote option)",
+    "category": "Internships",
+    "deadline": "2026-09-05",
+    "eligibility": "Final-year students or recent graduates in Computer Science",
+    "skills": [
+      "Python",
+      "PostgreSQL",
+      "API Design",
+      "Testing"
+    ],
+    "url": "https://paystack.com/careers"
+  },
+  {
+    "title": "MTN Cameroon Graduate Trainee Program",
+    "organization": "MTN Cameroon",
+    "description": "A structured graduate program rotating trainees through engineering, product, and business units, with formal mentorship and a path to full-time roles.",
+    "country": "Cameroon",
+    "category": "Jobs",
+    "deadline": "2026-10-15",
+    "eligibility": "Recent graduates, Cameroonian nationals",
+    "skills": [
+      "Telecommunications",
+      "Business Analysis",
+      "Problem Solving"
+    ],
+    "url": "https://www.mtn.cm/en/careers/"
+  },
+  {
+    "title": "Orange Digital Center Bootcamp - Bamenda",
+    "organization": "Orange Cameroon",
+    "description": "A free hands-on coding and entrepreneurship bootcamp covering web/mobile development and digital business skills, hosted at Orange Digital Centers across Cameroon.",
+    "country": "Cameroon",
+    "category": "Events",
+    "deadline": "2026-09-25",
+    "eligibility": "Young Cameroonians aged 18-30 interested in tech",
+    "skills": [
+      "Web Development",
+      "Mobile Development",
+      "Digital Entrepreneurship"
+    ],
+    "url": "https://www.orange.cm/digital-center"
+  },
+  {
+    "title": "AWS re/Start",
+    "organization": "Amazon Web Services",
+    "description": "A free, full-time training program that prepares job seekers for careers in cloud computing through classroom instruction and hands-on labs, ending in a job placement effort.",
+    "country": "Global",
+    "category": "Fellowships",
+    "deadline": "2026-10-30",
+    "eligibility": "Adults with limited or no technology experience",
+    "skills": [
+      "Cloud Computing",
+      "Linux",
+      "Networking",
+      "AWS"
+    ],
+    "url": "https://aws.amazon.com/training/restart/"
+  },
+  {
+    "title": "Hult Prize Global Case Challenge",
+    "organization": "Hult Prize Foundation",
+    "description": "A global student competition challenging teams to build sustainable, scalable social enterprises around an annual theme, with $1M in prize funding for the winning team.",
+    "country": "Global",
+    "category": "Competitions",
+    "deadline": "2027-01-20",
+    "eligibility": "Currently enrolled university students",
+    "skills": [
+      "Entrepreneurship",
+      "Pitching",
+      "Social Impact",
+      "Teamwork"
+    ],
+    "url": "https://www.hultprize.org/"
+  },
+  {
+    "title": "Africa Prize for Engineering Innovation",
+    "organization": "Royal Academy of Engineering",
+    "description": "Supports early-stage African innovators developing scalable engineering solutions to local challenges, offering seed funding, mentoring, and business training.",
+    "country": "Africa",
+    "category": "Competitions",
+    "deadline": "2026-11-01",
+    "eligibility": "African engineers/innovators with a working prototype",
+    "skills": [
+      "Engineering",
+      "Product Design",
+      "Innovation"
+    ],
+    "url": "https://www.raeng.org.uk/africaprize"
+  },
+  {
+    "title": "GIZ Digital Transformation Center Cameroon Fellowship",
+    "organization": "GIZ Cameroon",
+    "description": "Supports Cameroonian tech startups and freelancers with training, mentorship, and access to a coworking hub focused on digital solutions for local challenges.",
+    "country": "Cameroon",
+    "category": "Fellowships",
+    "deadline": "2026-10-05",
+    "eligibility": "Cameroonian startup founders and freelance developers",
+    "skills": [
+      "Digital Solutions",
+      "Startup Growth",
+      "Product-Market Fit"
+    ],
+    "url": "https://transformcameroon.org/"
+  },
+  {
+    "title": "Chevening Scholarship",
+    "organization": "UK Government",
+    "description": "Fully-funded UK government scholarships for one-year master's degrees in the UK, aimed at future leaders and influencers from around the world.",
+    "country": "Global",
+    "category": "Scholarships",
+    "deadline": "2026-11-05",
+    "eligibility": "At least 2 years of work experience, leadership potential",
+    "skills": [
+      "Leadership",
+      "Academic Writing",
+      "Networking"
+    ],
+    "url": "https://www.chevening.org/"
+  },
+  {
+    "title": "DjangoCon Africa",
+    "organization": "Django Software Foundation",
+    "description": "An annual conference bringing together African Django/Python developers for talks, workshops, and networking with the global Django community.",
+    "country": "Africa",
+    "category": "Conferences",
+    "deadline": "2026-09-10",
+    "eligibility": "Open to all developers; scholarship tickets available",
+    "skills": [
+      "Django",
+      "Python",
+      "Community Building"
+    ],
+    "url": "https://djangocon.africa/"
+  },
+  {
+    "title": "Code for Africa Volunteer Civic Tech Program",
+    "organization": "Code for Africa",
+    "description": "Volunteer opportunities building civic tech tools (data journalism dashboards, government transparency apps) that serve communities across Africa.",
+    "country": "Africa",
+    "category": "Volunteering",
+    "deadline": "2026-12-31",
+    "eligibility": "Developers, designers, and data analysts",
+    "skills": [
+      "Civic Tech",
+      "Data Visualization",
+      "JavaScript"
+    ],
+    "url": "https://code4africa.org/get-involved/"
+  },
+  {
+    "title": "Seedstars Africa Startup Competition",
+    "organization": "Seedstars",
+    "description": "A global startup competition and investment platform for early-stage startups in emerging markets, with regional events leading to a global summit.",
+    "country": "Africa",
+    "category": "Competitions",
+    "deadline": "2026-10-20",
+    "eligibility": "Early-stage startups with a working product",
+    "skills": [
+      "Entrepreneurship",
+      "Pitching",
+      "Fundraising"
+    ],
+    "url": "https://www.seedstars.com/"
+  },
+  {
+    "title": "Full-Stack Developer (Django + Vue)",
+    "organization": "Local FinTech Startup (remote, Central Africa)",
+    "description": "Own end-to-end features across a Django/DRF backend and a Nuxt/Vue frontend for a mobile-money-integrated marketplace product serving Central African users.",
+    "country": "Cameroon (remote)",
+    "category": "Jobs",
+    "deadline": "2026-09-30",
+    "eligibility": "Experience with Django REST Framework and Vue.js/Nuxt",
+    "skills": [
+      "Django",
+      "DRF",
+      "Vue.js",
+      "Nuxt",
+      "PostgreSQL",
+      "Mobile Money"
+    ],
+    "url": "https://example.com/careers/fullstack-developer"
+  },
+  {
+    "title": "DAAD Scholarship Programme (Master's & PhD Study in Germany)",
+    "organization": "DAAD (German Academic Exchange Service) - Cameroon",
+    "description": "DAAD Cameroon runs an active regional information center in Yaounde and maintains a searchable scholarship database covering tuition-free Master's and PhD study in Germany, plus in-region Master's/PhD options. Scholarships typically cover tuition, a monthly stipend, and travel.",
+    "country": "Cameroon",
+    "category": "Scholarships",
+    "deadline": "2026-10-30",
+    "eligibility": "Cameroonian graduates with a completed Bachelor's degree (for Master's programmes) or Master's degree (for PhD programmes); specific programmes vary",
+    "skills": [
+      "Academic Writing",
+      "Research",
+      "Graduate Study"
+    ],
+    "url": "https://www.daad.cm/en/find-funding/scholarship-database/"
+  },
+  {
+    "title": "Startupper of the Year Challenge by TotalEnergies - Cameroon",
+    "organization": "TotalEnergies Marketing Cameroun",
+    "description": "An annual pan-African entrepreneurship competition open to Cameroonian residents with a business idea or a startup under 3 years old. Winners receive cash prizes, personalized mentorship/coaching, and media visibility; a Pan-African \"Sustainable and Affordable Energy\" category also exists.",
+    "country": "Cameroon",
+    "category": "Competitions",
+    "deadline": null,
+    "eligibility": "Cameroonian residents aged 18-35 with a business creation project or a startup registered in Cameroon less than 3 years ago",
+    "skills": [
+      "Entrepreneurship",
+      "Pitching",
+      "Business Planning"
+    ],
+    "url": "https://startupper.totalenergies.com/en/challenges/cameroon-project"
+  },
+  {
+    "title": "Orange Fab Cameroun",
+    "organization": "Orange Cameroun",
+    "description": "A free startup accelerator run out of the Orange Digital Center, offering several months of mentorship, business/marketing training, coworking space, and funding of up to 10,000,000 FCFA per startup for digital ventures based in Cameroon.",
+    "country": "Cameroon",
+    "category": "Accelerators",
+    "deadline": null,
+    "eligibility": "Digital startups based in Cameroon with at least 3 months of activity, a tested product/service, and a clear business model",
+    "skills": [
+      "Entrepreneurship",
+      "Product Development",
+      "Digital Business"
+    ],
+    "url": "https://www.orange.cm/orange-digital-center/fr/orange-fab.html"
+  },
+  {
+    "title": "ActivSpaces Activation Bootcamp",
+    "organization": "ActivSpaces",
+    "description": "A rigorous accelerator program run by ActivSpaces, Cameroon's original tech hub and startup incubator, out of its coworking spaces in Buea and Douala at the heart of the \"Silicon Mountain\" startup community. Includes mentorship, coworking access, and pathways to seed finance.",
+    "country": "Cameroon",
+    "category": "Accelerators",
+    "deadline": null,
+    "eligibility": "Early-stage tech entrepreneurs and startups in Cameroon",
+    "skills": [
+      "Software Engineering",
+      "Startup Growth",
+      "Entrepreneurship"
+    ],
+    "url": "https://www.activspaces.com"
+  },
+  {
+    "title": "UN Volunteers - Cameroon Assignments",
+    "organization": "UNV (United Nations Volunteers)",
+    "description": "Ongoing national and international volunteer assignments with UN agencies (UNHCR, UNDP, UNICEF, OHCHR, and others) across Cameroon duty stations including Yaounde, Douala, Buea, and Maroua, spanning protection, communications, monitoring & evaluation, and civic education roles.",
+    "country": "Cameroon",
+    "category": "Volunteering",
+    "deadline": null,
+    "eligibility": "Varies by assignment; generally a relevant degree and some professional experience, registered via the UNV/UN Talent portal",
+    "skills": [
+      "Community Development",
+      "Project Support",
+      "Communication"
+    ],
+    "url": "https://www.unv.org/become-volunteer"
+  },
+  {
+    "title": "Njorku Cameroon Job Portal",
+    "organization": "Njorku",
+    "description": "A Buea-founded job search engine that aggregates tech, engineering, and general job postings from across Cameroon (print, web, and enterprise sources) in one searchable place.",
+    "country": "Cameroon",
+    "category": "Jobs",
+    "deadline": null,
+    "eligibility": "Open to all job seekers in Cameroon",
+    "skills": [
+      "Job Search"
+    ],
+    "url": "https://www.njorku.com/cameroon"
+  },
+  {
+    "title": "Fonds National de l'Emploi (FNE) - Job Placement, Training & Self-Employment Support",
+    "organization": "Fonds National de l'Emploi (Cameroon national employment agency)",
+    "description": "Cameroon's free public employment service, with agencies in all 10 regions. Offers job placement, certified vocational training (including the PED pre-employment programme for graduates), and support for self-employment micro-projects. Registration is in person, entirely free of charge.",
+    "country": "Cameroon",
+    "category": "Jobs",
+    "deadline": null,
+    "eligibility": "Cameroonian job seekers and project promoters; register in person at the nearest FNE agency with ID, diploma, and CV",
+    "skills": [
+      "Job Search",
+      "Vocational Training",
+      "Self-Employment"
+    ],
+    "url": "https://www.fnecm.org"
+  },
+  {
+    "title": "Careers at Kiro'o Games",
+    "organization": "Kiro'o Games",
+    "description": "Central Africa's pioneering video game studio, based in Yaounde, developing narrative-driven African-inspired games (Aurion: Legacy of the Kori-Odan, Elites of Mboa) for PC, mobile, and Xbox. Occasionally opens roles in game development, art, and mobile engineering.",
+    "country": "Cameroon",
+    "category": "Jobs",
+    "deadline": null,
+    "eligibility": "Varies by role; check current openings on their site",
+    "skills": [
+      "Game Development",
+      "Mobile Development",
+      "Digital Art"
+    ],
+    "url": "https://kirooworld.com/"
+  }
+]
